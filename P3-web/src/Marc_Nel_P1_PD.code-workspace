@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../Marc_Nel_P1_PD"
+		},
+		{
+			"name": "Nel_Marc_P1_PD",
+			"path": "../../Nel_Marc_P1_PD"
+		},
+		{
+			"name": "p1",
+			"path": "../../p1"
+		},
+		{
+			"name": "P2",
+			"path": "../../P2"
+		},
+		{
+			"name": "P3-web",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
